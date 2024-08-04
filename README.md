@@ -4,6 +4,7 @@ I'm BigSpaceships, a high school student and self-taught programmer. When I'm no
 I have experience with web dev (front end + backend), minecraft modding, and game development using Unity
 
 <!---
+// TODO: move this to not use vercel maybe???
 [![BigSpaceships's GitHub stats](https://github-readme-stats-rose-eta-86.vercel.app/api?username=BigSpaceships&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
